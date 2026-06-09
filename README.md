@@ -24,7 +24,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Syed+Misbah+ur+Rehman">「 Google Me 」</a>
+    <a href="https://www.google.com/search?q=Syed+Misbah+Ur+Rehman">「 Google Me 」</a>
     <br>
     「 I am a Full Stack Web & App Developer from <b>Karachi, Pakistan</b> 」
     <br>
